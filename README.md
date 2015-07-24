@@ -6,8 +6,8 @@ Licensed under LGPL-3.
 
 See github.com/denofiend/tcp_to_websocket for more info.
 
-install
-======
+install and run 
+=====
 
-$ npm install
-$ node tcp_to_websocket.js 1986 10.142.99.144:10100
+	$ npm install
+  	$ node tcp_to_websocket.js 1986 10.142.99.144:10100

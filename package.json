@@ -1,0 +1,17 @@
+{
+  "author": "DenoFiend (http://github.com/denofiend)",
+  "name": "tcp_to_websocket",
+  "description": "tcp_to_websocket is a TCP-to-WebSocket proxy/bridge",
+  "license": "LGPL-3",
+  "version": "0.0.1",
+  "bin": {
+    "tcp_to_websocket": "./tcp_to_websocket.js"
+  },
+  "engines": {
+    "node": ">=0.8.9"
+  },
+  "dependencies": {
+    "websocket": "latest",
+    "optimist": "latest"
+  }
+}
